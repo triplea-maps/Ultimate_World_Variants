@@ -3088,30 +3088,30 @@
     <!-- Impassables -->
     <attachment name="territoryAttachment" attachTo="Sahara" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="0"/>
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Columbia-Venezuela" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="2"/>
-      <option name="isImpassible" value="false"/>
+      <option name="isImpassable" value="false"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Bolivia-Peru" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="0"/>
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Mongolia" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="0"/>
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Greenland" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="0"/>
-      <option name="isImpassible" value="false"/>
+      <option name="isImpassable" value="false"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Evenky Okrug" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="2"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Argentina-Chile" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="1"/>
-      <option name="isImpassible" value="false"/>
+      <option name="isImpassable" value="false"/>
     </attachment>
   </attachmentList>
   <initialize>
