@@ -1,0 +1,8 @@
+map_name: ultimate_world_variants
+games:
+- {game_name: Ultimate P Talibush 7 Alliances, file_name: Ultimate_P_Talibush_7_Alliances.xml}
+- {game_name: Ultimate P Talibush FFA, file_name: Ultimate_P_Talibush_FFA.xml}
+- {game_name: Ultimate Pants, file_name: Ultimate_Pants_1.4.xml}
+- {game_name: 'Ultimate Pants:  ww2v3', file_name: UPww2v3_v.1.xml}
+- {game_name: Ultimate P Talibush Mod, file_name: Ultimate_P_Talibush_mod_v1.1.xml}
+- {game_name: 'Ultimate World: Expanded', file_name: Ultimate_World_-_Expanded.xml}
